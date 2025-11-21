@@ -1,3 +1,5 @@
 /output
 /comparisons
 /__pycache__
+*.png
+*.jpeg
